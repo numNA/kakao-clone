@@ -1,3 +1,3 @@
 # kakao-clone
  
- kakao Desktop App Clone
+ kakao Desktop App Clone with Nomad Coders
